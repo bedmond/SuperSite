@@ -1,0 +1,25 @@
+################################################################################################
+
+Changelog for the Hipster E-commerce Theme by Ondrej Svestka - http://ondrejsvestka.cz
+
+################################################################################################
+
+Version 1.2
+-----------
+
+CSS + LESS - added colour variants
+HTML - added 2 homepage variants, original index.html is now index3.html
+
+3rd Party items - updated to Font Awesome 4.6.3
+
+Version 1.1
+-----------
+CSS + LESS - small change in the navbar, added new styling for Blog templates
+HTML - added blog.html and post.html (+ added links to navbar and footer of the pages)
+
+3rd Party items - updated to Bootstrap 3.3.6, Font Awesome 4.5.0
+
+
+Version 1.0
+-----------
+Initial Release
