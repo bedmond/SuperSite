@@ -2667,6 +2667,7 @@ COPYRIGHT
 .copyright p.credit a {
   color: #999999;
 }
+
 @media (max-width: 991px) {
   .copyright p.credit {
     text-align: center !important;
