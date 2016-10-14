@@ -804,8 +804,56 @@ INTRO
 .intro.colour-background {
   background: #4fbfa8;
 }
-.intro.image-background {
-  background: url('../img/intro1.jpg') center center no-repeat;
+.intro.image-background-cultura {
+  background: url('../img/SuperStock_1773R-13305167_lo.jpg') center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-backface-visibility: hidden;
+}
+.intro.image-background-vintage {
+  background: url('../img/SuperStock_255-3285_lo.jpg') center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-backface-visibility: hidden;
+}
+.intro.image-background-medical {
+  background: url('../img/SuperStock_4451R-20775950_lo.jpg') center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-backface-visibility: hidden;
+}
+.intro.image-background-travel {
+  background: url('../img/SuperStock_4292-20490356_lo.jpg') center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-backface-visibility: hidden;
+}
+.intro.image-background-science {
+  background: url('../img/SuperStock_4313-1692_lo.jpg') center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-backface-visibility: hidden;
+}
+.intro.image-background-hero {
+  background: url('../img/SuperStock_4451R-20022579_lo.jpg') center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-backface-visibility: hidden;
+}
+.intro.image-background-art {
+  background: url('../img/SuperStock_4453-20324298_lo.jpg') center center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
