@@ -2660,8 +2660,9 @@ COPYRIGHT
   margin-top: 40px;
   color: #999999;
 }
-.copyright p.credit {
+.copyright ul.credit {
   text-align: right;
+  display: inline-block;
 }
 .copyright p.credit a {
   color: #999999;

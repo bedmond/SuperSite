@@ -1696,6 +1696,13 @@ SLIDERS
 .footer__copyright p {
   margin: 0;
 }
+.footer__copyright p a {
+  display: inline;
+  padding: 0;
+}
+.footer__copyright a:not(:first-child):before {
+  content: " | ";
+}
 @media (max-width: 991px) {
   .footer__copyright p {
     float: none !important;
