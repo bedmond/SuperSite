@@ -1,4 +1,3 @@
-/* variant 7  - turquoise */
 /* 
 ========================================= 
 ========================================= 
@@ -804,8 +803,16 @@ INTRO
 .intro.colour-background {
   background: #4fbfa8;
 }
-.intro.image-background-cultura {
+/*.intro.image-background-cultura {
   background: url('../img/SuperStock_1773R-13305167_lo.jpg') center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-backface-visibility: hidden;
+}*/
+.intro.image-background-animals {
+  background: url('../img/SuperStock_4420-1003_lo.jpg') center center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2116,7 +2123,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #348e7b;
+  color: #66ccff;
   text-decoration: underline;
 }
 a:focus {
@@ -2371,7 +2378,7 @@ label {
   color: #999999;
 }
 .form-control:focus {
-  border-color: #66afe9;
+  border-color: #66ccff;
   outline: 0;
   -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);
   box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);
